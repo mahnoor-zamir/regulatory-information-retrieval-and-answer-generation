@@ -14,7 +14,7 @@ National University of Sciences & Technology (NUST), Islamabad, Pakistan.
 
 ## Methodology
 1. **Information Retrieval**: Uses the **BM25** algorithm to locate passages most relevant to user queries.
-2. **Answer Generation**: Employs **LLaMA** through the **Grok API** to synthesize responses based on retrieved content.
+2. **Answer Generation**: Employs **LLaMA** through the **Groq API** to synthesize responses based on retrieved content.
 
 ---
 
@@ -44,7 +44,7 @@ The project uses the **ObliQA** dataset, a Regulatory NLP-specific dataset compr
 
 3. **Configure API Access**
    ```bash
-   GROK_API_KEY=your_api_key_here
+   GROQ_API_KEY=your_api_key_here
    ```
 
 4. **Run the Main Notebook**
