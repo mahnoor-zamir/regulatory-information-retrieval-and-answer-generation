@@ -59,11 +59,9 @@ The dataset used in this project is the **ObliQA** dataset, specifically designe
 ---
 
 ## Results
-The results of the model evaluation are provided in this section, showcasing the performance of various retrieval models on regulatory documents.
 
 ---
 
 ## Discussions
-This section discusses the findings, challenges, and implications of the model performance, as well as suggestions for future work.
 
 ---
