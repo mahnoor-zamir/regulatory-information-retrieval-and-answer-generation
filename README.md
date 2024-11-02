@@ -44,7 +44,7 @@ The project uses the **ObliQA** dataset, a Regulatory NLP-specific dataset compr
 
 3. **Configure API Access**
    ```bash
-   export GROK_API_KEY=your_api_key_here
+   GROK_API_KEY=your_api_key_here
    ```
 
 4. **Run the Main Notebook**
