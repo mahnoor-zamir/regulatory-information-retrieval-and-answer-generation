@@ -56,7 +56,7 @@ The project uses the **ObliQA** dataset, a Regulatory NLP-specific dataset compr
 
 ## Repository Structure
 ```
-/
+regulatory-information-retrieval-and-answer-generation/
 ├── data/
 │   └── input.json       # Input data for queries
 ├── notebooks/
