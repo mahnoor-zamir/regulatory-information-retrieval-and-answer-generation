@@ -73,4 +73,4 @@ Run the notebook to retrieve relevant passages and generate responses. The resul
 ---
 
 ## Note
-This project is designed to aid regulatory information processing and compliance verification. For questions or contributions, please contact the authors.
+This project is designed to aid regulatory information processing and compliance verification. For questions or contributions, please contact the me.
