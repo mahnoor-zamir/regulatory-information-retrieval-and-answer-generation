@@ -1,7 +1,7 @@
 # RIRAG: Regulatory Information Retrieval and Answer Generation
 
 ### Authors
-Azka Basit, Mahnoor Zamir, Mariam Babar, Rameen Aamir  
+Azka Basit, Mahnoor Zamir, Mariam Babar Khan, Rameen Aamir  
 School of Electrical Engineering and Computer Science (SEECS),  
 National University of Sciences & Technology (NUST), Islamabad, Pakistan.
 
